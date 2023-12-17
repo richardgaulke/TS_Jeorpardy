@@ -1,50 +1,50 @@
-Math,100,What is 5 + 3?,8
-Math,200,If you have 2 apples and get 2 more, how many do you have?,4
-Math,300,What is 10 minus 4?,6
-Math,400,If you divide 8 candies among 4 friends, how many does each get?,2
-Math,500,What is 7 times 3?,21
-Math,600,What is half of 10?,5
-Math,700,What is the next number: 2, 4, 6, ?,8
-Math,800,What shape has four equal sides?,Square
-Math,900,If a train leaves at 2 PM and takes 3 hours to arrive, what time does it arrive?,5:00 PM
-Math,1000,What is 100 divided by 10?,10
-Science,100,What do plants need to grow?,Sunlight, water, and soil
-Science,200,What is the boiling point of water?,100 degrees Celsius
-Science,300,What planet do we live on?,Earth
-Science,400,Name a gas we breathe out.,Carbon dioxide
-Science,500,What causes day and night?,The rotation of the Earth
-Science,600,What do bees collect from flowers?,Nectar
-Science,700,What is the largest mammal?,Blue whale
-Science,800,What is a baby frog called?,Tadpole
-Science,900,How many legs does a spider have?,8
-Science,1000,What are the three states of matter?,Solid, liquid, gas
-History,100,Who was George Washington?,The first President of the United States
-History,200,What is Independence Day?,A celebration of American independence on July 4th
-History,300,What ancient civilization built pyramids?,The Egyptians
-History,400,Name the ship that brought Pilgrims to America.,The Mayflower
-History,500,Who is known for discovering electricity?,Benjamin Franklin
-History,600,What war was fought in the 1860s in America?,The Civil War
-History,700,Who was Martin Luther King Jr.?,A leader in the civil rights movement
-History,800,What is the significance of the Statue of Liberty?,A symbol of freedom and democracy
-History,900,Who was the first woman to fly across the Atlantic?,Amelia Earhart
-History,1000,What is the Declaration of Independence?,A document declaring American independence from Britain
-Geography,100,What is the largest ocean?,Pacific Ocean
-Geography,200,Name the continent we live on.,North America
-Geography,300,What are the four cardinal directions?,North, South, East, West
-Geography,400,Name a country in Europe.,Germany
-Geography,500,What is the longest river in the world?,The Nile River
-Geography,600,What is a map used for?,To show geographical information
-Geography,700,Name a country in Asia.,China
-Geography,800,What is the capital of France?,Paris
-Geography,900,Where are the Himalayas located?,In Asia
-Geography,1000,What is the smallest continent?,Australia
-English,100,What is a noun?,A person, place, or thing
-English,200,Name a synonym for 'happy'.,Joyful
-English,300,How many letters are in the alphabet?,26
-English,400,What is the opposite of 'hot'?,Cold
-English,500,What do quotation marks indicate?,Dialogue or direct speech
-English,600,What is the main idea of a story?,The central theme or message
-English,700,Name a type of punctuation mark.,Period, comma, exclamation mark, etc.
-English,800,What is a verb?,An action word
-English,900,What does an adjective do?,Describes a noun
-English,1000,What is a pronoun?,Replaces a noun
+Math,100,What is 9 plus 6,15
+Math,200,Sides in a triangle,3
+Math,300,20 divided by 5,4
+Math,400,5 candies minus 2 equals,3
+Math,500,4 times 3,12
+Math,600,7 minus 3,4
+Math,700,Next number: 5, 10, 15,20
+Math,800,Shape with three corners,Triangle
+Math,900,Movie ends if starts at 6 PM and lasts 2 hours,8:00 PM
+Math,1000,50 plus 25,75
+Science,100,Common name for H2O,Water
+Science,200,Planet known as the Red Planet,Mars
+Science,300,Plants making food is called,Photosynthesis
+Science,400,Caterpillars turn into,Butterflies
+Science,500,Where does a bird live,Nest
+Science,600,Center of our solar system,The Sun
+Science,700,Type of animal a dolphin is,Mammal
+Science,800,Largest organ in human body,Skin
+Science,900,Use of ears,Hearing
+Science,1000,Most abundant gas in Earth's atmosphere,Nitrogen
+History,100,Who invented the light bulb,Thomas Edison
+History,200,Ship for Pilgrims to America,The Mayflower
+History,300,Who was Abraham Lincoln,16th US President
+History,400,Civilization that invented paper,The Chinese
+History,500,First man on the moon,Neil Armstrong
+History,600,Great Wall of China purpose,Protect from invasions
+History,700,Who was Cleopatra,Egyptian queen
+History,800,Martin Luther King Jr.'s famous speech,I Have a Dream
+History,900,Who discovered America,Christopher Columbus
+History,1000,What was the Titanic,Ship that sank in 1912
+Geography,100,Capital of the United States,Washington, D.C.
+Geography,200,Largest continent,Asia
+Geography,300,Country with the Eiffel Tower,France
+Geography,400,Five Great Lakes of North America,Huron Ontario Michigan Erie Superior
+Geography,500,Longest river in the US,Mississippi River
+Geography,600,Continent with the Sahara Desert,Africa
+Geography,700,Country known for a large wall,China
+Geography,800,Capital of Japan,Tokyo
+Geography,900,Country bordering the United States,Canada or Mexico
+Geography,1000,Location of Pyramids of Giza,Egypt
+English,100,Vowels in the English alphabet,A E I O U
+English,200,What does an adjective describe,A noun
+English,300,Past tense of 'run',Ran
+English,400,Plural of 'mouse',Mice
+English,500,Punctuation at end of sentence,Period or full stop
+English,600,Opposite of 'hard',Easy
+English,700,Rhymes with 'cat',Bat or hat
+English,800,Word meaning the same as another,Synonym
+English,900,Person place or thing in grammar,Noun
+English,1000,Action word in a sentence,Verb
